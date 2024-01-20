@@ -1,0 +1,15 @@
+{
+  "name": "vitaly-o",
+  "version": "1.0.0",
+  "description": "improving hardskills",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "vianormonroe",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.0.3"
+  }
+}
